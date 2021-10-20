@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vlevinski
 - 👀 I’m interested in Python, Go
 - 🌱 I’m currently learning Kubernetes and Cloud Microservices
-- 💞️ I’m looking to collaborate on Python Software DEvelopment for Reals tasks
+- 💞️ I’m looking to collaborate on Python Software DEvelopment for Real tasks
 - 📫 How to reach me: tweet me @vlevinski 
 
 <!---
