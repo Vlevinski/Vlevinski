@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Go
 - 🌱 I’m currently learning Kubernetes and Cloud Microservices
 - 💞️ I’m looking to collaborate on Python Software DEvelopment for Real tasks
-- 📫 How to reach me: tweet me @vlevinski 
+- 📫 How to reach me:  @vlevinski 
 
 <!---
 Vlevinski/Vlevinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
